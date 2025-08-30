@@ -66,8 +66,8 @@ Optional: FormSubmit (for email submissions)
 This website helps raise awareness and collect community-driven feedback around the real problems and opportunities in Delhi.
 
 📬 Contact
-✉️ Email: info@yuzone.me
+✉️ Email: hello@yashrajos.rf.gd
 
-🌐 Website: https://yuzone.me
+🌐 Website: https://yuzone.tech
 
 ⭐ Star this repo if it inspired your own civic tech idea!
